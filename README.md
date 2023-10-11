@@ -1,7 +1,7 @@
 # OG Twitter Home Icon
 This is a Boost for the Arc browser that will bring back the proper Twitter Home icon, and do away with that [monstrosity](https://twitter.com/bonniekatewolf/status/1711822926025294165) that Elon and team have unveiled:
 
-![A comparison between the old Twitter home icon and the absolute shit that is the new icon](https://pbs.twimg.com/media/F8GQ5yeWYAATUMh?format=png&name=medium)
+<img width="600" alt="og-twitter-home-icon" src="https://github.com/thejohnnyhill/og-twitter-home-icon/assets/31429616/0b60d546-58cc-479d-9074-fa0ebdecb588" alt="A side-by-side depiction of the new Twitter home icon, crossed out in red, and the old icon with a green check next to it">
 
 This script is written in vanilla JavaScript, so it's light, compatible with other custom styling/theming, and can also be used as a standalone userscript in plugins like Tampermonkey.
 
